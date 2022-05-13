@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "641561213971",
+    "firebase_url": "https://face-recognition-3c11e-default-rtdb.firebaseio.com",
+    "project_id": "face-recognition-3c11e",
+    "storage_bucket": "face-recognition-3c11e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641561213971:android:dc8841641d58a9ae6b13e6",
+        "android_client_info": {
+          "package_name": "com.flutterflow.facerecognition2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641561213971-b9m2c3gvg4uhdustp03q2do4u2s9hp75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXpzIoT3bR2Xsy7ZT2sALw--oFpwR-bwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641561213971-b9m2c3gvg4uhdustp03q2do4u2s9hp75.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
